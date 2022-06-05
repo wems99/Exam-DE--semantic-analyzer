@@ -1,0 +1,6 @@
+string a = hola
+void doSomething(string x, string y){
+	if(x == a){
+		y = a
+	}
+}

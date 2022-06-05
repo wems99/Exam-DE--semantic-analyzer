@@ -1,0 +1,7 @@
+string a = hola
+void doSomething(string x, int b){
+	if(b == a){
+		x=a
+	return b
+	}
+}

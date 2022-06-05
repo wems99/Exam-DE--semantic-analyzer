@@ -1,0 +1,9 @@
+int x = 8
+int doSomething(int a, int n){
+	if(a > 0){
+		x = n
+		n = n + 3
+	}
+     return n
+}
+

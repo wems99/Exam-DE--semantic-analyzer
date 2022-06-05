@@ -1,0 +1,10 @@
+x = 8
+int doSomething(int a, string s){
+	if(a > 0.0){
+		s = "Mayor"
+		n = n + 3
+	}
+     return s
+}
+
+
